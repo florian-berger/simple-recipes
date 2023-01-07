@@ -9,4 +9,4 @@ It adds multiple new recipes to the game making the crafting processes less comp
 
 ## Modpack
 You can use this mod in every modpack that is available for free. You are allowed to distribute the mod file in an own ModPack launcher.
-If the modpack is not distributed via CurseForge, you need to add a link to this repository, [my website](https://berger-media.biz/downloads/12/minecraft/ultis-simple-recipes) or the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/TODO) of this modification.
+If the modpack is not distributed via CurseForge, you need to add a link to this repository, [my website](https://berger-media.biz/downloads/12/minecraft/ultis-simple-recipes) or the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/ultis-simple-recipes) of this modification.
