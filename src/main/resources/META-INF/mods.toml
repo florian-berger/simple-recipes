@@ -1,20 +1,20 @@
 modLoader="javafml"
 
-# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
 loaderVersion="[43,)"
-license="All rights reserved"
+license="https://github.com/florian-berger/simple-recipes/blob/master/LICENSE"
+issueTrackerURL="https://github.com/florian-berger/simple-recipes/issues"
 
 [[mods]]
 modId="ultissimplerecipes"
 version="${file.jarVersion}"
 displayName="Ulti's Simple Recipes"
-logoFile="ultissimplerecipes.png"
+logoFile="ultis-simple-recipes.png"
 
-displayURL="https://berger-media.biz/downloads/12/minecraft/simple-recipes"
+displayURL="https://berger-media.biz/downloads/12/minecraft/ultis-simple-recipes"
 authors="Florian <UltimateG4ming> Berger"
 
 description='''
-This mod is adding some recipes to make the crafting processes in the game less complex. For example, you don't need to convert logs to planks for making sticks.
+This mod is adding some recipes to make the crafting processes in the game less complex. For example, you don't need to convert logs to planks for making sticks or chests.
 '''
 
 [[dependencies.ultissimplerecipes]]
