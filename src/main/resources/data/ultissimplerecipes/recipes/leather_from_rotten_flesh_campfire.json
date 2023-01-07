@@ -4,6 +4,6 @@
     "item": "minecraft:rotten_flesh"
   },
   "result": "minecraft:leather",
-  "experience": 0.1,
-  "cookingTime": 500
+  "experience": 0.35,
+  "cookingtime": 1200
 }
