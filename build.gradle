@@ -5,10 +5,9 @@ plugins {
 }
 
 version = '2023.1.0'
-group = 'biz.berger_media.ultissimplerecipes' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group = 'biz.berger_media.ultissimplerecipes'
 archivesBaseName = 'ultissimplerecipes'
 
-// Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 println "Java: ${System.getProperty 'java.version'}, JVM: ${System.getProperty 'java.vm.version'} (${System.getProperty 'java.vendor'}), Arch: ${System.getProperty 'os.arch'}"
@@ -71,7 +70,6 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
             args '--mod', 'ultissimplerecipes', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
@@ -87,8 +85,6 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 repositories {
-    // Put repositories for dependencies here
-    // ForgeGradle automatically adds the Forge maven and Maven Central for you
     maven {
         // location of the maven that hosts JEI files
         name = "Progwml6 maven"
@@ -104,8 +100,8 @@ repositories {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.19.2-43.2.0'
 
-    // compileOnly fg.deobf("mezz.jei:jei-${mc_version}:${jei_version}:api") // Adds JEI API as a compile dependency
-    runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}") // Adds the full JEI mod as a runtime dependency
+    // For Debug purposes, include JEI dependency
+    // runtimeOnly fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}")
 }
 
 jar {
