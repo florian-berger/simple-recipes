@@ -7,7 +7,7 @@ Welcome to the source repository of the Minecraft modification **Ulti's Simple R
 It adds multiple new recipes to the game making the crafting processes less complex. Please use a mod like JEI or REI to see all new recipes.
 
 
-> **Warning**
+> **Warning**<br>
 > The version for Minecraft 1.18.2 was created AFTER the one for Minecraft 1.19.2! Only the most current version is supported, so there won't be any bugfixes for 1.18.2!
 > For this reason, the git branch is kept and won't be merged to master. 
 
