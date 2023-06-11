@@ -1,5 +1,9 @@
 # Ulti's Simple Recipes
-[![CurseForge](https://cf.way2muchnoise.eu/full_798781_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/ultis-simple-recipes) [![CurseForge](https://cf.way2muchnoise.eu/versions/798781.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/ultis-simple-recipes) [![Issues](https://img.shields.io/github/issues/florian-berger/simple-recipes?logo=github&style=for-the-badge)](https://github.com/florian-berger/simple-recipes)
+
+[![CurseForge](https://cf.way2muchnoise.eu/full_798781_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/ultis-simple-recipes)
+[![CurseForge](https://cf.way2muchnoise.eu/versions/798781.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/ultis-simple-recipes)
+[![Issues](https://img.shields.io/github/issues/florian-berger/simple-recipes?logo=github&style=for-the-badge)](https://github.com/florian-berger/simple-recipes)
+[![Discord](https://img.shields.io/discord/302523634075828226?label=Discord&logo=discord&style=for-the-badge)](https://ultgmng.de/discord)
 
 
 Welcome to the source repository of the Minecraft modification **Ulti's Simple Recipes**.
