@@ -46,6 +46,18 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: modloader
+    attributes:
+      label: What modloader are you playing with?
+      multiple: true
+      options:
+        - Forge
+        - Fabric
+        - NeoForge
+    validations:
+      required: true
+
   - type: input
     id: mod-version
     attributes:
