@@ -17,4 +17,4 @@ If the modpack is not distributed via CurseForge, you need to add a link to this
 
 
 ### Multi-Loader
-Since Version **2023.2.0**, besides Forge the mod is also available for Fabric and NeoForge. To make it build-able from single sources, the  [MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template/) was used.  
+Since Version **2023.3.0**, besides Forge the mod is also available for Fabric and NeoForge. To make it build-able from single sources, the  [MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template/) was used.  
