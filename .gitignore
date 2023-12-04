@@ -12,6 +12,7 @@ out
 *.iws
 *.iml
 .idea
+!.idea/scopes
 
 # gradle
 build
@@ -23,3 +24,5 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+*/runs/*

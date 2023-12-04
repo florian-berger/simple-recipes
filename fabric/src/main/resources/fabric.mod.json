@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://berger-media.biz/downloads/12/minecraft/ultis-simple-recipes",
+        "sources": "https://github.com/florian-berger/simple-recipes/tree/master",
+        "issues": "https://github.com/florian-berger/simple-recipes/issues"
+    },
+    "license": "${license}",
+    "icon": "ultis-simple-recipes.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "biz.berger_media.ultissimplerecipes.UltisSimpleRecipes"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.14",
+        "fabric": "*",
+        "minecraft": "1.20.2",
+        "java": ">=17"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}
