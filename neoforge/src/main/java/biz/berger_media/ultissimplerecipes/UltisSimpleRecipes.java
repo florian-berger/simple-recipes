@@ -1,6 +1,5 @@
 package biz.berger_media.ultissimplerecipes;
 
-
 import net.neoforged.fml.common.Mod;
 
 @Mod(Constants.MOD_ID)
