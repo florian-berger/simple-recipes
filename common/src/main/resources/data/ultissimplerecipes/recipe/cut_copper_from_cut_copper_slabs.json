@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "S  ",
-    "S  ",
+    "SS ",
+    "SS ",
     "   "
   ],
   "key": {
@@ -12,6 +12,6 @@
   },
   "result": {
     "id": "minecraft:cut_copper",
-    "count": 1
+    "count": 2
   }
 }
