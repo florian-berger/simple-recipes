@@ -6,15 +6,9 @@
     "P  "
   ],
   "key": {
-    "N": {
-      "item": "minecraft:iron_nugget"
-    },
-    "P": {
-      "item": "minecraft:paper"
-    },
-    "S": {
-      "item": "minecraft:slime_ball"
-    }
+    "N": "minecraft:iron_nugget",
+    "P": "minecraft:paper",
+    "S": "minecraft:slime_ball"
   },
   "result": {
     "id": "minecraft:name_tag"

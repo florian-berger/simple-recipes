@@ -6,12 +6,8 @@
     "   "
   ],
   "key": {
-    "S": {
-      "item": "minecraft:string"
-    },
-    "C": {
-      "item": "minecraft:gray_dye"
-    }
+    "S": "minecraft:string",
+    "C": "minecraft:gray_dye"
   },
   "result": {
     "id": "minecraft:gray_wool"

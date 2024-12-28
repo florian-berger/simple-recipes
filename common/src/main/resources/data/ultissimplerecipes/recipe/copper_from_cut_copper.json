@@ -1,9 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:cut_copper"
-    }
+    "minecraft:cut_copper"
   ],
   "result": {
     "id": "minecraft:copper_block",

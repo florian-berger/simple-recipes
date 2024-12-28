@@ -1,9 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:chiseled_tuff"
-    }
+    "minecraft:chiseled_tuff"
   ],
   "result": {
     "id": "minecraft:tuff_slab",

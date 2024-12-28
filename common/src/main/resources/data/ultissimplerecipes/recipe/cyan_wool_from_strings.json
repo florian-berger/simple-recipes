@@ -6,12 +6,8 @@
     "   "
   ],
   "key": {
-    "S": {
-      "item": "minecraft:string"
-    },
-    "C": {
-      "item": "minecraft:cyan_dye"
-    }
+    "S": "minecraft:string",
+    "C":  "minecraft:cyan_dye"
   },
   "result": {
     "id": "minecraft:cyan_wool"
