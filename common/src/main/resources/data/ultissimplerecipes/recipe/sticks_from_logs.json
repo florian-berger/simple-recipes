@@ -6,9 +6,7 @@
     "   "
   ],
   "key": {
-    "L": {
-      "tag": "minecraft:logs"
-    }
+    "L": "#minecraft:logs"
   },
   "result": {
     "id": "minecraft:stick",

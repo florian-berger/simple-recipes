@@ -1,9 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:exposed_chiseled_copper"
-    }
+    "minecraft:exposed_chiseled_copper"
   ],
   "result": {
     "id": "minecraft:exposed_cut_copper_slab",

@@ -6,9 +6,7 @@
     "G G"
   ],
   "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
-    }
+    "G": "minecraft:gold_ingot"
   },
   "result": {
     "id": "minecraft:golden_horse_armor",
