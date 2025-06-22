@@ -8,7 +8,7 @@ modId = "${mod_id}"
 version = "${version}"
 displayName = "${mod_name}"
 displayURL="https://berger-media.biz/downloads/12/minecraft/ultis-simple-recipes"
-logoFile = "ultis-simple-recipes.png"
+logoFile="ultis-simple-recipes.png"
 
 credits = "${credits}"
 authors = "${mod_author}"

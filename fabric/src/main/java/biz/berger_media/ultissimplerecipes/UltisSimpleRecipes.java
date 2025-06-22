@@ -6,6 +6,7 @@ public class UltisSimpleRecipes implements ModInitializer {
     
     @Override
     public void onInitialize() {
+
         Constants.LOG.info("Initializing Ulti's Simple Recipes for Fabric ...");
         CommonClass.init();
     }
